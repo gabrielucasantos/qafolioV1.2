@@ -6,5 +6,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/qafolioV2/', 
+  base: '/qafolioV1.2/', 
 });
