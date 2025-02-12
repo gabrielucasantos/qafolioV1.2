@@ -245,7 +245,7 @@ function App() {
                 <div className={`absolute inset-0 w-[120%] h-[120%] -left-[10%] -top-[10%] bg-gradient-to-r ${gradientClasses} rounded-full blur-2xl opacity-20 animate-pulse`} />
                 <div className="relative w-full h-full rounded-full overflow-hidden ring-4 ring-white/10">
                   <img 
-                    src="../src/img/profile-removebg.png" 
+                    src="https://github.com/user-attachments/assets/a95cd775-4670-4e38-99cc-946da9050962" 
                     alt="Profile" 
                     className="w-full h-full object-cover"
                   />
